@@ -58,6 +58,7 @@ Mees
 - [oralcagan](https://github.com/oralcagan)
 - [Omar Ghrairi](https://github.com/OGhrairi)
 - [Andre Sorpreso](https://github.com/asorpreso)
+-Shai Mari
 - [Sahil Janbandhu](https://github.com/sahiljanbandhu)
 - [Saulius Baltramonaitis](https://github.com/simpson2)
 - [Charlotte Guerin](https://github.com/Loliwe)
